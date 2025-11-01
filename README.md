@@ -1,6 +1,6 @@
 # 🤖 **Image Classification Using CNN and ResNet Architecture** 🧠📸
 # 🚀 **Overview**
-🚀 **Proud to share my latest Deep Learning project**, where I implemented a **Convolutional Neural Network (CNN)** using the **ResNet (Residual Network)** architecture to perform **image classification** with impressive accuracy! 💡
+🚀 **Thrilled to share my latest Deep Learning project**, where I implemented a **Convolutional Neural Network (CNN)** using the **ResNet (Residual Network)** architecture to perform **image classification** with impressive accuracy! 💡
 
 -----
 
